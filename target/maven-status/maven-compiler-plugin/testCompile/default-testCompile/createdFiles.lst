@@ -1,0 +1,5 @@
+dtu/library/acceptance_tests/LendingSteps.class
+dtu/library/acceptance_tests/BookSteps.class
+dtu/library/acceptance_tests/AcceptanceTest.class
+dtu/library/acceptance_tests/ErrorMessageHolder.class
+dtu/library/acceptance_tests/LoginLogoutSteps.class

@@ -1,0 +1,6 @@
+dtu/library/app/Address.class
+dtu/library/app/Book.class
+dtu/library/app/BookStatus.class
+dtu/library/app/LibraryApp.class
+dtu/library/app/User.class
+dtu/library/app/OperationNotAllowedException.class

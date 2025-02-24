@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dtu.library.acceptance_tests.AcceptanceTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.752 s -- in dtu.library.acceptance_tests.AcceptanceTest
